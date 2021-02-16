@@ -3,9 +3,12 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>A competition brews</h1>
+      <h2> So far two contestants rank! Ezster with 2 points and Yvonne with 1!</h2>
+      
+      <p>This project is being built by Filipe with Next.JS</p>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Check my out at <a href="https://github.com/FilipeFT/next-starter-jamstack2">my repository</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
