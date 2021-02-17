@@ -8,7 +8,7 @@ const Home = () => (
       
       <p>This project is being built by Filipe with Next.JS</p>
 
-    <h3>Check me out at <a href="https://github.com/FilipeFT/next-starter-jamstack2">my repository</a>!</h3>
+    <h3>Join in on the fun! Check me out at <a href="https://github.com/FilipeFT/next-starter-jamstack2">my repository</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
